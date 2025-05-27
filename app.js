@@ -2,4 +2,4 @@
 
 setTimeout(()=>{
     console.log("Bonjour Teccart, Apres un delai de 3 seconds")
-},3000)
+},4000)
